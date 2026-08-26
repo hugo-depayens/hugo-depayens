@@ -9,14 +9,13 @@
 ╚══════╝ ╚═════╝ ╚═╝  ╚═╝╚═╝╚═╝  ╚═╝
 ```
 
-**`ゾヒル・ミルザフメドフ`** · **`ZOXIR MIRZAXMEDOV`**
+### `> backend engineer // payments & high-volume ingest // Tashkent, UZ`
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=900&color=00FF41&center=true&vCenter=true&width=680&height=48&lines=%3E+front-end+developer+%2F%2F+Tashkent%2C+UZ;%3E+React+%C2%B7+Next.js+%C2%B7+Vue+%C2%B7+TypeScript;%3E+%E6%97%A5%E6%9C%AC%E8%AA%9E%E3%82%92%E5%8B%89%E5%BC%B7%E4%B8%AD...;%3E+PRESS+ANY+KEY+TO+CONTINUE+_" alt="typing" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&pause=1000&color=00FF41&center=true&vCenter=true&width=720&height=46&lines=%3E+Node.js+%C2%B7+Go+%C2%B7+PostgreSQL+%C2%B7+Redis+%C2%B7+NATS;%3E+payments%2C+ingest+pipelines%2C+write+batching;%3E+throughput+and+backpressure+over+demos;%3E+PRESS+ANY+KEY+TO+CONTINUE+_" alt="typing" />
 
 <img src="https://img.shields.io/github/followers/hugo-depayens?style=for-the-badge&logo=github&logoColor=00FF41&label=FOLLOWERS&labelColor=0D1117&color=0D1117" alt="followers" />
 <img src="https://img.shields.io/github/stars/hugo-depayens?affiliations=OWNER&style=for-the-badge&logo=github&logoColor=00FF41&label=STARS&labelColor=0D1117&color=0D1117" alt="stars" />
 <img src="https://komarev.com/ghpvc/?username=hugo-depayens&color=00FF41&style=for-the-badge&label=VISITORS" alt="visitors" />
-<img src="https://img.shields.io/badge/TASHKENT-GMT%2B5-0D1117?style=for-the-badge&logo=googlemaps&logoColor=00FF41" alt="location" />
 
 ```
 ▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄
@@ -24,15 +23,48 @@
 
 </div>
 
-## `> dmesg | tail`
+## `> cat /etc/stack.conf`
+
+<div align="center">
+
+**`CORE`**
+
+<img src="https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&labelColor=0D1117&logoColor=00FF41&logo=nodedotjs" alt="Node.js" />
+<img src="https://img.shields.io/badge/NestJS-0D1117?style=for-the-badge&labelColor=0D1117&logoColor=00FF41&logo=nestjs" alt="NestJS" />
+<img src="https://img.shields.io/badge/Fastify-0D1117?style=for-the-badge&labelColor=0D1117&logoColor=00FF41&logo=fastify" alt="Fastify" />
+<img src="https://img.shields.io/badge/Express-0D1117?style=for-the-badge&labelColor=0D1117&logoColor=00FF41&logo=express" alt="Express" />
+<img src="https://img.shields.io/badge/Go-0D1117?style=for-the-badge&labelColor=0D1117&logoColor=00FF41&logo=go" alt="Go" />
+<img src="https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&labelColor=0D1117&logoColor=00FF41&logo=typescript" alt="TypeScript" />
+
+**`DATA & MESSAGING`**
+
+<img src="https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&labelColor=0D1117&logoColor=00FF41&logo=postgresql" alt="PostgreSQL" />
+<img src="https://img.shields.io/badge/Redis-0D1117?style=for-the-badge&labelColor=0D1117&logoColor=00FF41&logo=redis" alt="Redis" />
+<img src="https://img.shields.io/badge/NATS-0D1117?style=for-the-badge&labelColor=0D1117&logoColor=00FF41&logo=natsdotio" alt="NATS" />
+
+**`INFRA`**
+
+<img src="https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&labelColor=0D1117&logoColor=00FF41&logo=docker" alt="Docker" />
+<img src="https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&labelColor=0D1117&logoColor=00FF41&logo=linux" alt="Linux" />
+<img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&labelColor=0D1117&logoColor=00FF41&logo=git" alt="Git" />
+<img src="https://img.shields.io/badge/GitHub_Actions-0D1117?style=for-the-badge&labelColor=0D1117&logoColor=00FF41&logo=githubactions" alt="GitHub_Actions" />
+
+**`ALSO COMFORTABLE WITH`**
+
+<img src="https://img.shields.io/badge/React-0D1117?style=for-the-badge&labelColor=0D1117&logoColor=00FF41&logo=react" alt="React" />
+<img src="https://img.shields.io/badge/Next.js-0D1117?style=for-the-badge&labelColor=0D1117&logoColor=00FF41&logo=nextdotjs" alt="Next.js" />
+<img src="https://img.shields.io/badge/Vue.js-0D1117?style=for-the-badge&labelColor=0D1117&logoColor=00FF41&logo=vuedotjs" alt="Vue.js" />
+<img src="https://img.shields.io/badge/Tailwind-0D1117?style=for-the-badge&labelColor=0D1117&logoColor=00FF41&logo=tailwindcss" alt="Tailwind" />
+
+</div>
+
+## `> dmesg | tail -5`
 
 ```
-[  OK  ] Mounted /dev/coffee
-[  OK  ] Started react-dev-server.service
-[  OK  ] Started tailwind-jit.service
-[  OK  ] Reached target Graphical Interface
-[ WAIT ] Loading 日本語 dictionary ....... 43%
-[ WARN ] Sleep schedule not found, ignoring
+[  OK  ] Started postgres.service
+[  OK  ] Started nats-server.service
+[  OK  ] Reached target Payments Ingest
+[ INFO ] write-buffer: batching on, flush=250ms
 [  OK  ] Welcome back, zoxir.
 ```
 
@@ -45,37 +77,56 @@
 <!-- ============================================================ -->
 <!--  ASCII-PORTRAIT SLOT                                         -->
 <!--  python ascii_me.py me.jpg --width 44 --box --out p.txt      -->
-<!--  замени содержимое PRE-блока ниже на текст из p.txt      -->
+<!--  замени содержимое PRE-блока ниже на текст из p.txt          -->
 <!-- ============================================================ -->
 <pre>
-<img width="659" height="876" alt="image" src="https://github.com/user-attachments/assets/7a15c5e8-cdbf-428d-9f11-ec79f1b63ef3" />
+<img width="659" height="876" alt="ascii-art (2)" src="https://github.com/user-attachments/assets/ea4f7aac-6c0e-42f2-b254-6ca503b90f74" />
 </pre>
 
 </td>
 <td valign="top">
 
 <pre>
-<b>zoxir</b>@<b>github</b> ─ front-end              
-──────────────────────────────────────
- OS ........ Uzbekistan · Tashkent    
- Kernel .... front-end 5.x (react)    
- Shell ..... zsh + VS Code            
- Uptime .... since 2020, still up     
- Stack ..... React/Next/Vue/TS        
- Runtime ... Node · Python (Flet)     
- Locale .... uz · ru · en · ja(N5)    
- Theme ..... CRT green on black       
- Focus ..... shipping real apps       
-──────────────────────────────────────
- "make it work, make it right,        
-  then make it beautiful."            
-──────────────────────────────────────
- ██ ██ ██ ██ ██ ██ ██ ██ ██ ██ ██ ██  
+<b>zoxir</b>@<b>github</b> ─ backend                    
+──────────────────────────────────────────
+ Role ...... backend engineer             
+ Domain .... payments · high-volume ingest
+ Location .. Tashkent, UZ (GMT+5)         
+ Runtime ... Node.js · Go                 
+ Data ...... PostgreSQL · Redis · NATS    
+ Infra ..... Docker · Linux · CI          
+ Interests . throughput, backpressure,    
+             idempotency, write batching  
+──────────────────────────────────────────
+ "make it correct, then make it fast,     
+  then make it boring to operate."        
+──────────────────────────────────────────
+ ██ ██ ██ ██ ██ ██ ██ ██ ██ ██ ██ ██ ██   
 </pre>
 
 </td>
 </tr>
 </table>
+
+<details>
+<summary><b>🇷🇺 О себе / About me in Russian</b></summary>
+
+<br>
+
+Бэкенд-инженер из Ташкента. Работаю с платежами и приёмом больших
+объёмов данных: очереди, батчинг записи, идемпотентность, бэкпрешер.
+
+- ⚙️ Основное: **Node.js** (Nest, Fastify, Express) и **Go**
+- 🗄️ Данные: **PostgreSQL**, **Redis**, **NATS**
+- 📦 Инфраструктура: **Docker**, Linux, CI
+- 🎨 Фронтенд знаю на рабочем уровне — React, Next.js, Vue — но это не то,
+  чем я хочу заниматься
+- 🇯🇵 Вне работы учу японский и пишу для этого своё приложение
+
+> Открыт к задачам, где важна пропускная способность и корректность
+> под нагрузкой, а не количество экранов.
+
+</details>
 
 <details>
 <summary><code>$ man ascii_me — как вставить свою фотку</code></summary>
@@ -88,7 +139,7 @@ python ascii_me.py me.jpg --width 44 --box --out portrait.txt
 ```
 
 Открой `portrait.txt` в VS Code, скопируй всё и вставь в `README.md`
-между `<pre>` и `</pre>` в блоке с пометкой **ASCII-PORTRAIT SLOT**.
+в PRE-блок с пометкой **ASCII-PORTRAIT SLOT**.
 
 | флаг | что делает |
 |---|---|
@@ -99,108 +150,38 @@ python ascii_me.py me.jpg --width 44 --box --out portrait.txt
 | `--charset` | `blocks` · `blocks8` · `classic` · `dense` · `matrix` · `dots` |
 | `--light-bg` | если арт поедет на светлый фон |
 
-**Что важно знать:** на тёмной теме GitHub плотный символ `█` читается как
-*светлый*, поэтому скрипт по умолчанию отдаёт плотные глифы ярким пикселям.
-Если получится негатив — добавь `--light-bg`.
-
-**Совет по фото:** близкий кадр, контрастный свет, простой фон.
-ASCII не тянет мелкие детали, но отлично держит силуэт и светотень.
+На тёмной теме GitHub плотный символ `█` читается как *светлый*, поэтому
+скрипт по умолчанию отдаёт плотные глифы ярким пикселям. Если вышел
+негатив — добавь `--light-bg`.
 
 </details>
 
 <details>
-<summary><b>🇷🇺 О себе / About me in Russian</b></summary>
-
-<br>
-
-Привет! Меня зовут **Зохир**, я фронтенд-разработчик из Ташкента.
-
-- 🧩 Собираю интерфейсы на **React**, **Next.js**, **Vue** и **TypeScript**
-- 🐍 Иногда ухожу в **Python** — десктоп на Flet и телеграм-боты
-- 🇯🇵 Учу японский и пишу для этого своё приложение — **Japanese-learner**
-- 🎨 Люблю аккуратный UI, тёмные темы и терминальную эстетику 80-х
-- 🚀 Сейчас: портфолио на Next.js и новый пет-проект каждую неделю
-
-> Открыт к интересным проектам, коллаборациям и честному ревью кода.
-
-</details>
-
-## `> cat /etc/stack.conf`
-
-<div align="center">
-
-**`CORE`**
-
-<img src="https://img.shields.io/badge/React-0D1117?style=for-the-badge&labelColor=0D1117&logoColor=00FF41&logo=react" alt="React" />
-<img src="https://img.shields.io/badge/Next.js-0D1117?style=for-the-badge&labelColor=0D1117&logoColor=00FF41&logo=nextdotjs" alt="Next.js" />
-<img src="https://img.shields.io/badge/Vue.js-0D1117?style=for-the-badge&labelColor=0D1117&logoColor=00FF41&logo=vuedotjs" alt="Vue.js" />
-<img src="https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&labelColor=0D1117&logoColor=00FF41&logo=typescript" alt="TypeScript" />
-<img src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&labelColor=0D1117&logoColor=00FF41&logo=javascript" alt="JavaScript" />
-
-**`STYLE & UI`**
-
-<img src="https://img.shields.io/badge/Tailwind-0D1117?style=for-the-badge&labelColor=0D1117&logoColor=00FF41&logo=tailwindcss" alt="Tailwind" />
-<img src="https://img.shields.io/badge/Sass-0D1117?style=for-the-badge&labelColor=0D1117&logoColor=00FF41&logo=sass" alt="Sass" />
-<img src="https://img.shields.io/badge/Framer_Motion-0D1117?style=for-the-badge&labelColor=0D1117&logoColor=00FF41&logo=framer" alt="Framer_Motion" />
-<img src="https://img.shields.io/badge/Figma-0D1117?style=for-the-badge&labelColor=0D1117&logoColor=00FF41&logo=figma" alt="Figma" />
-
-**`BACK & TOOLS`**
-
-<img src="https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&labelColor=0D1117&logoColor=00FF41&logo=nodedotjs" alt="Node.js" />
-<img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&labelColor=0D1117&logoColor=00FF41&logo=python" alt="Python" />
-<img src="https://img.shields.io/badge/Flet-0D1117?style=for-the-badge&labelColor=0D1117&logoColor=00FF41&logo=flutter" alt="Flet" />
-<img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&labelColor=0D1117&logoColor=00FF41&logo=git" alt="Git" />
-<img src="https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&labelColor=0D1117&logoColor=00FF41&logo=linux" alt="Linux" />
-<img src="https://img.shields.io/badge/VS_Code-0D1117?style=for-the-badge&labelColor=0D1117&logoColor=00FF41&logo=visualstudiocode" alt="VS_Code" />
-
-</div>
-
-## `> ./stats --render --theme=crt`
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=hugo-depayens&hide_border=false&border_radius=0&background=0D1117&border=00FF41&stroke=00FF41&ring=00FF41&fire=FF6B00&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00FF41&sideLabels=C9D1D9&dates=8B949E" alt="streak" />
-
-</div>
-
-**`public repos by primary language`**
-
-```
- TypeScript  █████████░░░░░░░░░░░░░░░░░  33.3%
- JavaScript  █████████░░░░░░░░░░░░░░░░░  33.3%
- Vue         ████░░░░░░░░░░░░░░░░░░░░░░  16.7%
- Python      ████░░░░░░░░░░░░░░░░░░░░░░  16.7%
-```
-
-<details>
-<summary><code>$ ./stats --extended</code>  (карточки со сторонних сервисов — иногда не грузятся)</summary>
+<summary><code>$ ./stats --extended</code>  — карточки со сторонних сервисов</summary>
 
 <br>
 
 <div align="center">
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=hugo-depayens&show_icons=true&include_all_commits=true&count_private=true&border_radius=0&bg_color=0D1117&title_color=00FF41&text_color=C9D1D9&icon_color=00FF41&border_color=00FF41&cache_seconds=86400" alt="stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hugo-depayens&layout=compact&langs_count=8&border_radius=0&bg_color=0D1117&title_color=00FF41&text_color=C9D1D9&border_color=00FF41&cache_seconds=86400" alt="top languages" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=hugo-depayens&bg_color=0D1117&color=00FF41&line=00FF41&point=FFFFFF&area=true&area_color=00FF41&hide_border=false&border_color=00FF41&radius=0" alt="activity graph" />
 
 </div>
 
 </details>
 
+## `> ping --socials`
 
 <div align="center">
 
 <a href="https://t.me/YOUR_TELEGRAM"><img src="https://img.shields.io/badge/TELEGRAM-0D1117?style=for-the-badge&logo=telegram&logoColor=00FF41" alt="telegram" /></a>
 <a href="mailto:YOUR@MAIL.COM"><img src="https://img.shields.io/badge/EMAIL-0D1117?style=for-the-badge&logo=gmail&logoColor=00FF41" alt="email" /></a>
 <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LINKEDIN-0D1117?style=for-the-badge&logo=linkedin&logoColor=00FF41" alt="linkedin" /></a>
-<a href="https://github.com/hugo-depayens/portfolio"><img src="https://img.shields.io/badge/PORTFOLIO-0D1117?style=for-the-badge&logo=vercel&logoColor=00FF41" alt="portfolio" /></a>
 
 ```
 ▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄
 ```
 ```
- [ SYSTEM ]  thanks for scrolling · ありがとう · rahmat
+ [ SYSTEM ]  thanks for scrolling · rahmat
  [ SYSTEM ]  connection closed by remote host_
 ```
 </div>
